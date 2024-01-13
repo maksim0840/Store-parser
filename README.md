@@ -1,4 +1,4 @@
-electronic stores parser with GUI interface (mvideo, dns, citilink)
+electronics store parser with GUI (mvideo, dns, citilink)
 
 FILES:  
 main.exe - start programm  
