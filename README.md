@@ -11,4 +11,12 @@ products.xlsx - Excel table with discounts information from "products" menu (gen
 invisible.ico - icon for application  
 save.txt - saving settings  
 
- 
+![alt text](https://avatars.mds.yandex.net/get-images-cbir/2416661/5zp0QhmgvYcdRQ_VcqVFkw4970/ocr)
+
+![alt text](https://avatars.mds.yandex.net/get-images-cbir/2180818/sLPamzM8dZIYuAdCfO1kqw4877/ocr)
+
+![alt text](https://avatars.mds.yandex.net/get-images-cbir/38005/5m7iivFyYiH9YslNb-kM2A4912/ocr)
+
+![alt text](https://avatars.mds.yandex.net/get-images-cbir/4577172/btN8AgyeUN6jPlZOBVVzZw4944/ocr)
+
+![alt text](https://avatars.mds.yandex.net/get-images-cbir/1007757/s21sN_aWy6hF4DKhT8TkSQ4957/ocr)
