@@ -11,9 +11,7 @@ products.xlsx - Excel table with discounts information from "products" menu (gen
 invisible.ico - icon for application  
 save.txt - saving settings  
 
-<p aligh = center>
-<img width="734" height="406" src ="https://avatars.mds.yandex.net/get-images-cbir/2416661/5zp0QhmgvYcdRQ_VcqVFkw4970/ocr">
-</p>
+
 
 ![alt text](https://avatars.mds.yandex.net/get-images-cbir/2416661/5zp0QhmgvYcdRQ_VcqVFkw4970/ocr)
 
