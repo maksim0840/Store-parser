@@ -10,3 +10,5 @@ categories.xlsx - Excel table with discounts information from "categories" menu 
 products.xlsx - Excel table with discounts information from "products" menu (generating in main.py with information from discounts.db)  
 invisible.ico - icon for application  
 save.txt - saving settings  
+
+ 
